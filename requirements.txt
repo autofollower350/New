@@ -1,0 +1,6 @@
+selenium
+pyrogram
+tgcrypto
+fastapi
+uvicorn
+nest_asyncio
